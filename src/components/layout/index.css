@@ -1,0 +1,21 @@
+header {
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header > nav {
+  display: flex;
+  gap: 1rem;
+}
+
+header > nav > a {
+  color: #fff;
+}
+
+.content {
+  padding: 1rem;
+}
